@@ -1,3 +1,15 @@
+onfig_1.py
+-rw-rw-r-- 1 lab lab 2.5K Apr 22 10:32 config.py
+-rw-rw-r-- 1 lab lab  23K Apr 22 10:32 custom_layers.py
+drwxrwxr-x 2 lab lab 4.0K Apr 22 10:32 data_sample
+-rw-rw-r-- 1 lab lab 104K Apr 22 10:32 fig1.png
+-rw-rw-r-- 1 lab lab 168K Apr 22 10:32 fig2.png
+-rw-rw-r-- 1 lab lab 118K Apr 22 10:32 fig3.png
+-rw-rw-r-- 1 lab lab 3.8K Apr 22 10:32 generate_n_sets.py
+-rw-rw-r-- 1 lab lab 2.9K Apr 22 10:32 keras_metrics.py
+-rw-rw-r-- 1 lab lab  12K Apr 22 10:32 LICENSE
+-rw-rw-r-- 1 lab lab 6.9K Apr 22 10:32 README.md
+python<=3.6
 futures==3.1.1
 Keras==2.3.1
 numpy>=1.17.4
